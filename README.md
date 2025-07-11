@@ -1,9 +1,8 @@
 
 # drought_indices_python
 
-[![Python application](https://github.com/ktripa/drought_indices_python/actions/workflows/python-app.yml/badge.svg)](https://github.com/ktripa/drought_indices_python/actions/workflows/python-app.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI - Version](https://img.shields.io/pypi/v/drought_indices_python.svg)](https://pypi.org/project/drought_indices_python/)
 
 A Python library for computing and analyzing various drought indices, designed for researchers and practitioners in climate and hydrology. This package aims to provide robust and scientifically verifiable implementations of key drought indicators.
@@ -12,8 +11,8 @@ A Python library for computing and analyzing various drought indices, designed f
 
 ## About the Author
 
-**Your Name** (PhD Student, Texas A&M University)
-Email: your.email@tamu.edu
+**Kumar Puran Tripathy** (PhD Student, Texas A&M University)
+Email: tripathypuranbdk@gmail.com
 
 ## Features
 
