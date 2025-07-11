@@ -8,8 +8,8 @@ A Python library for computing and analyzing various drought indices, designed f
 
 ## About the Author
 
-**Your Name** (PhD Student, Texas A&M University)
-Email: your.email@tamu.edu
+**Kumar Puran Tripathy** (PhD Student, Texas A&M University)
+Email: tripathypuranbdk@gmail.com
 
 ## Features
 
