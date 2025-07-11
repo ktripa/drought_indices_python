@@ -1,11 +1,7 @@
 
-# DROUGHT_INDICES_PYTHON/README.md
-# This file provides a description of your package, installation, and usage.
-# It will be displayed on your PyPI project page.
-"""
 # drought_indices_python
 
-[![Python application](https://github.com/yourusername/drought_indices_python/actions/workflows/python-app.yml/badge.svg)](https://github.com/yourusername/drought_indices_python/actions/workflows/python-app.yml)
+[![Python application](https://github.com/ktripa/drought_indices_python/actions/workflows/python-app.yml/badge.svg)](https://github.com/ktripa/drought_indices_python/actions/workflows/python-app.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 [![PyPI - Version](https://img.shields.io/pypi/v/drought_indices_python.svg)](https://pypi.org/project/drought_indices_python/)
