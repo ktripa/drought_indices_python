@@ -1,5 +1,4 @@
 
-"""
 # drought_indices_python
 
 A Python library for computing and analyzing various drought indices, designed for researchers and practitioners in climate and hydrology. This package aims to provide robust and scientifically verifiable implementations of key drought indicators.

@@ -12,7 +12,7 @@ with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='drought_indices_python',  
-    version='0.1.2',    
+    version='0.1.3',    
     author='Kumar Puran Tripathy', 
     author_email='tripathypuranbdk@gmail.com', 
     description='A Python package for calculating and analyzing drought indices.', 
