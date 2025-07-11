@@ -14,7 +14,7 @@ A Python library for computing and analyzing various drought indices, designed f
 **Kumar Puran Tripathy** (PhD Student, Texas A&M University)
 Email: tripathypuranbdk@gmail.com
 
-## Features
+## Functions
 
 The `drought_indices_python` package offers a growing suite of essential drought indices:
 
