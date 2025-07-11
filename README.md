@@ -1,58 +1,32 @@
 
-# DROUGHT_INDICES_PYTHON/README.md
-# This file provides a description of your package, installation, and usage.
-# It will be displayed on your PyPI project page.
 """
 # drought_indices_python
 
-A Python package designed for calculating and analyzing various drought indices, and handling related meteorological data. This project is currently in its early development phase, providing a skeleton for future implementation.
+A Python library for computing and analyzing various drought indices, designed for researchers and practitioners in climate and hydrology. This package aims to provide robust and scientifically verifiable implementations of key drought indicators.
 
-## Features (Planned)
+**Currently under active development.**
 
-* **Drought Index Calculation:**
-    * Potential Evapototranspiration (PET)
-    * Standardized Precipitation Index (SPI)
-    * Palmer Drought Severity Index (PDSI)
-    * And more!
+## About the Author
+
+**Your Name** (PhD Student, Texas A&M University)
+Email: your.email@tamu.edu
+
+## Features
+
+The `drought_indices_python` package offers a growing suite of essential drought indices:
+
+* **Potential Evapotranspiration (PET):**
+    * `calculate_pet_thornthwaite`: Estimates PET using the widely recognized Thornthwaite (1948) method, based on temperature and daylight hours.
+* **Standardized Precipitation Index (SPI):**
+    * `calculate_spi`: Quantifies precipitation deficit or surplus over various timescales, utilizing a calibration period for robust statistical fitting.
+* **Standardized Precipitation Evapotranspiration Index (SPEI):**
+    * `calculate_spei`: A powerful drought indicator based on the difference between precipitation and potential evapotranspiration, aggregated and transformed to a standard normal variate using a defined calibration period.
 * **Data Utilities:**
-    * Loading and preprocessing meteorological data.
-    * Saving results.
+    * Functions for loading, preprocessing, and saving meteorological and hydrological data.
 
-## Installation (Once deployed to PyPI)
+## Installation
 
-You will be able to install `drought_indices_python` using pip:
+You can install `drought_indices_python` directly from PyPI using pip:
 
 ```bash
 pip install drought_indices_python
-```
-
-For development purposes, you can install it locally in editable mode:
-
-```bash
-cd /path/to/your/DROUGHT_INDICES_PYTHON/project # Navigate to the outer DROUGHT_INDICES_PYTHON folder
-pip install -e .
-```
-
-## Usage (Planned)
-
-Once the functions are implemented, you'll be able to use `drought_indices_python` like this:
-
-```python
-from drought_indices_python import calculate_pet, calculate_spi, load_data
-
-# Example: Load some data (placeholder)
-# data = load_data('path/to/your/data.csv')
-
-# Example: Calculate PET (placeholder)
-# pet_values = calculate_pet(temperature=data['temp'], latitude=30.0, month=7)
-
-# Example: Calculate SPI (placeholder)
-# spi_values = calculate_spi(precipitation_data=data['precip'], scale=6)
-
-# print("PET values:", pet_values)
-# print("SPI values:", spi_values)
-```
-
-## Contributing
-
-We welcome contributions to `drought_indices_python`! If you'd like to help fill in the functions or add new features, please fork the repository, make your changes, and submit a pull request.
